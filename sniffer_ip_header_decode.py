@@ -53,7 +53,8 @@ try:
     while True:
         raw_buffer = sniffer.recvfrom(65565)[0]
         ip_header = IP(raw_buffer[:20])
-        print(f"Protocol: {ip_header.protocol} {ip_header.src_address} -> {ip_header.dst_address}")
+        if ip_header.protocol == "ICMP":
+            print(f"Protocol: {ip_header.protocol} {ip_header.src_address} -> {ip_header.dst_address}")
 
 except KeyboardInterrupt:
     if os.name == "nt":

@@ -60,7 +60,6 @@ class ICMP(Structure):
 def udp_sender(subnet, magic_message):
     time.sleep(5)
     sender = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-
     for ip in IPNetwork(subnet):
         try:
              sender.sendto(magic_message, (ip, 65212))
