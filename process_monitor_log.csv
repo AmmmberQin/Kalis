@@ -1,0 +1,41 @@
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+20181024172955.633847+480,DESKTOP-Q08CDEK\mayn,C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\wpscloudsvr.exe,"C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\wpscloudsvr.exe" Run /InstanceId:WpsCloudSvr "C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\wpscloudsvrimp.dll" /run_plugin /plugin_name=ktaskschdtool /plugin_entry=ktaskschdtool.dll /task=wpsexternal /launchtask /ver=1.0 /start_from=task_external,4756,11064,N/A
+
+20181024172956.447493+480,DESKTOP-Q08CDEK\mayn,C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\wpscenter.exe,"C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\wpscenter.exe" Run -Entry=EntryPoint "C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6/rubyenv.dll" "C:\Users\mayn\AppData\Roaming\Kingsoft/wps/addons/pool/win-i386/kbubble_1.0.201809.0/krbubble_entry.rb",15284,4756,N/A
+
+20181024173035.406836+480,DESKTOP-Q08CDEK\mayn,C:\Program Files (x86)\SogouInput\8.3.0.9412\SGTool.exe,"C:\Program Files (x86)\SogouInput\8.3.0.9412\SGTool.exe" -daemon,11788,3528,N/A
+
+20181024173045.386629+480,None\None,None,None,1112,744,N/A
+
+20181024173045.522927+480,DESKTOP-Q08CDEK\mayn,C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\et.exe,"C:\Users\mayn\AppData\Local\Kingsoft\WPS Office\10.2.0.7516\office6\et.exe" "D:\git\Kalis\process_monitor_log.csv",13984,3528,N/A
+
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+20181024180745.828007+480,DESKTOP-Q08CDEK\mayn,C:\Program Files\Haskell Platform\8.4.3\bin\ghc.exe,"C:\\Program Files\\Haskell Platform\\8.4.3\\bin/ghc.exe" "--interactive",13520,5036,N/A
+
+20181024180745.767994+480,DESKTOP-Q08CDEK\mayn,C:\WINDOWS\system32\conhost.exe,\??\C:\WINDOWS\system32\conhost.exe 0x4,1604,5036,N/A
+
+20181024180745.758473+480,DESKTOP-Q08CDEK\mayn,C:\Program Files\Haskell Platform\8.4.3\bin\ghci.exe,"C:\Program Files\Haskell Platform\8.4.3\bin\ghci.exe" ,5036,5728,N/A
+
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+20181024180826.811387+480,DESKTOP-Q08CDEK\mayn,C:\Program Files\Haskell Platform\8.4.3\bin\ghc.exe,"C:\\Program Files\\Haskell Platform\\8.4.3\\bin/ghc.exe" "--interactive",10636,2036,N/A
+
+20181024180826.743464+480,DESKTOP-Q08CDEK\mayn,C:\WINDOWS\system32\conhost.exe,\??\C:\WINDOWS\system32\conhost.exe 0x4,1176,2036,N/A
+
+20181024180826.734541+480,DESKTOP-Q08CDEK\mayn,C:\Program Files\Haskell Platform\8.4.3\bin\ghci.exe,"C:\Program Files\Haskell Platform\8.4.3\bin\ghci.exe" ,2036,5728,N/A
+
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+20181024180912.819145+480,DESKTOP-Q08CDEK\mayn,C:\Program Files\Haskell Platform\8.4.3\bin\ghc.exe,"C:\\Program Files\\Haskell Platform\\8.4.3\\bin/ghc.exe" "--interactive",1000,1272,SeChangeNotifyPrivilege|
+
+20181024180912.750464+480,DESKTOP-Q08CDEK\mayn,C:\Program Files\Haskell Platform\8.4.3\bin\ghci.exe,"C:\Program Files\Haskell Platform\8.4.3\bin\ghci.exe" ,1272,5728,SeChangeNotifyPrivilege|
+
+20181024180912.760023+480,DESKTOP-Q08CDEK\mayn,C:\WINDOWS\system32\conhost.exe,\??\C:\WINDOWS\system32\conhost.exe 0x4,4756,1272,SeChangeNotifyPrivilege|
+
+20181024181153.929205+480,DESKTOP-Q08CDEK\mayn,C:\WINDOWS\system32\conhost.exe,\??\C:\WINDOWS\system32\conhost.exe 0x4,13676,7808,SeChangeNotifyPrivilege|
+
+20181024181153.918340+480,DESKTOP-Q08CDEK\mayn,C:\WINDOWS\system32\cmd.exe,"C:\WINDOWS\system32\cmd.exe" ,7808,5728,SeChangeNotifyPrivilege|
+
+20181024181156.068984+480,DESKTOP-Q08CDEK\mayn,C:\Users\mayn\AppData\Local\Programs\Python\Python37\python.exe,python,6004,7808,SeChangeNotifyPrivilege|
+
